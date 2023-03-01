@@ -3,5 +3,5 @@
 ## Required Home Work
 ### Recreate Conceptual Diagram in Lucid Charts
 
-![Napkin Design](assets/Napkin%20Design.jpeg)
+![Napkin Design](assets/Napkin%20Desig)
 
