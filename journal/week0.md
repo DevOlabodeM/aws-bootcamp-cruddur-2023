@@ -13,7 +13,12 @@ Link to the Diagram: [Lucid Charts](https://lucid.app/lucidchart/203cdb76-8e83-4
 
 ## AWS CLI- Install
 
+I installed the AWS CLI manually. i had issues installing it using the terminal.
+
+
 ![AWS CLI INSTALLATION](assets/AWS-bootcamp-cli-Installations.png)
+
+
 
 
 
